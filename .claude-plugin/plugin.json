@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "arris-peo",
   "displayName": "Arris by Dinsmore Steele",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Work in Arris, Dinsmore Steele's PEO quoting platform, from Claude: clients and partners finish intakes and upload documents, Dinsmore Steele staff work cases and send them to PEOs, and PEOs review and respond to quote requests. Includes the free PEO Alignment Score.",
   "author": {
     "name": "Dinsmore Steele",
