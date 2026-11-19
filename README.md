@@ -16,6 +16,7 @@ You need an Arris account to use it. Dinsmore Steele invites clients, broker par
 | `peo-alignment-score` skill | Takes you through the 12-question PEO Alignment Score and emails you the report. |
 | `staff-case-work` skill | For Dinsmore Steele staff: your queue, finding a case, what's missing, messaging the client or partner, waiving a document, returning or reopening a case. |
 | `send-to-peos` skill | For Dinsmore Steele staff: send a ready case to PEOs (after you confirm the list) and record what each PEO came back with. |
+| `staff-reports` skill | For Dinsmore Steele staff: open case counts, what opened and closed recently, and any report from the Arris Reports tab. |
 | `peo-submissions` skill | For PEOs: the quote requests sent to you, their messages, asking Dinsmore Steele a question, declining to quote, and your PEO profile. |
 
 ## Getting started
