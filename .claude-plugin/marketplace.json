@@ -1,0 +1,12 @@
+{
+  "name": "dinsmore-steele",
+  "owner": { "name": "Dinsmore Steele", "url": "https://www.dinsmoresteele.com" },
+  "description": "Dinsmore Steele's plugins for Claude.",
+  "plugins": [
+    {
+      "name": "arris-peo",
+      "source": "./",
+      "description": "Finish a PEO quote intake in Arris from Claude."
+    }
+  ]
+}
