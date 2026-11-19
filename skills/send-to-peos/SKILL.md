@@ -1,6 +1,6 @@
 ---
 name: send-to-peos
-description: Use when a Dinsmore Steele staff member wants to send a ready Arris case to one or more PEOs for quotes, or to record what a PEO came back with (priced, declined, or another outcome).
+description: "Use when a Dinsmore Steele staff member wants to send a ready Arris case to one or more PEOs for quotes, or to record what a PEO came back with (priced, declined, or another outcome)."
 ---
 
 # Send a case to PEOs and record outcomes

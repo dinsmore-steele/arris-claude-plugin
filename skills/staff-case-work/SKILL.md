@@ -1,6 +1,6 @@
 ---
 name: staff-case-work
-description: Use when a Dinsmore Steele staff member wants to work Arris cases from Claude, for example to see their queue, find a case, check what's missing, message the client or partner, waive a document, return a case to the client or reopen one.
+description: "Use when a Dinsmore Steele staff member wants to work Arris cases from Claude, for example to see their queue, find a case, check what's missing, message the client or partner, waive a document, return a case to the client or reopen one."
 ---
 
 # Staff case work in Arris

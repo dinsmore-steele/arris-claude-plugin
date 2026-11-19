@@ -1,6 +1,6 @@
 ---
 name: peo-alignment-score
-description: Use when someone wants to take the PEO Alignment Score, asks whether a PEO is a good fit for their company, or wants to know how well their current PEO fits.
+description: "Use when someone wants to take the PEO Alignment Score, asks whether a PEO is a good fit for their company, or wants to know how well their current PEO fits."
 ---
 
 # Take the PEO Alignment Score

@@ -1,6 +1,6 @@
 ---
 name: finish-peo-case
-description: Use when someone wants to finish, continue or check on their Arris case (a PEO quote intake): what is left, answering the open intake questions, reading their documents for answers, and getting the outstanding documents uploaded.
+description: "Use when someone wants to finish, continue or check on their Arris case (a PEO quote intake): what is left, answering the open intake questions, reading their documents for answers, and getting the outstanding documents uploaded."
 ---
 
 # Finish an Arris case
