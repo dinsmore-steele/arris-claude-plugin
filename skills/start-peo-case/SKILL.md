@@ -1,6 +1,6 @@
 ---
 name: start-peo-case
-description: Use when someone wants to open a new Arris case to get PEO quotes for a company, or when a broker partner wants to invite their client into a case.
+description: "Use when someone wants to open a new Arris case to get PEO quotes for a company, or when a broker partner wants to invite their client into a case."
 ---
 
 # Start an Arris case

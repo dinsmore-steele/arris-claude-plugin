@@ -1,6 +1,6 @@
 ---
 name: peo-submissions
-description: Use when someone at a PEO wants to see the quote requests Dinsmore Steele has sent them through Arris, read a submission and its messages, ask Dinsmore Steele a question, decline to quote, or check their PEO profile.
+description: "Use when someone at a PEO wants to see the quote requests Dinsmore Steele has sent them through Arris, read a submission and its messages, ask Dinsmore Steele a question, decline to quote, or check their PEO profile."
 ---
 
 # PEO submissions in Arris
