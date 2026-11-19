@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "arris": {
+      "type": "http",
+      "url": "https://arris.dinsmoresteele.com/api/mcp"
+    }
+  }
+}

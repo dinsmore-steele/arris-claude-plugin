@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "arris-peo",
+  "displayName": "Arris by Dinsmore Steele",
+  "version": "1.0.0",
+  "description": "Finish a PEO quote intake in Arris from Claude: see what's left on a case, answer the open questions from what you know or your documents, get secure upload links, start a new case, or take the PEO Alignment Score.",
+  "author": {
+    "name": "Dinsmore Steele",
+    "url": "https://www.dinsmoresteele.com"
+  },
+  "homepage": "https://arris.dinsmoresteele.com/connect",
+  "license": "MIT",
+  "keywords": ["peo", "benefits", "payroll", "hr", "insurance", "intake", "quoting"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://arris.dinsmoresteele.com/connect",
+  "supportUrl": "https://www.dinsmoresteele.com",
+  "privacyPolicyUrl": "https://arris.dinsmoresteele.com/privacy",
+  "termsOfServiceUrl": "https://arris.dinsmoresteele.com/terms"
+}
