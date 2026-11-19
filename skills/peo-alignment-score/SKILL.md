@@ -15,6 +15,7 @@ The PEO Alignment Score (PAS) is Dinsmore Steele's free assessment: 12 multiple-
 4. Ask for their name, work email and company. Phone is optional.
 5. Call `pas_submit` without `confirmed` to preview. Read the email address back and ask them to confirm it. Only after they say yes, call `pas_submit` again with `confirmed: true`. This emails the report and records the result with Dinsmore Steele, so never send it on a guess.
 6. Share the score, its band and what it means in two or three sentences. Mention that the full report is on its way by email.
+7. Offer to help them start gathering what PEOs need for a quote. No sign-in is needed for the assessment, but a case needs an Arris account. If they want one and don't have a login, call `request_arris_account` with the email they gave, read the address back, then call it again with `confirmed: true`. Tell them to open the email, set a password, and come back; Claude asks them to sign in to Arris before it opens their case (see the start-peo-case skill).
 
 ## Things you don't do
 
