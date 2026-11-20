@@ -2,7 +2,7 @@
   "mcpServers": {
     "arris": {
       "type": "http",
-      "url": "https://arris.dinsmoresteele.com/api/mcp"
+      "url": "https://arrisian.com/api/mcp"
     }
   }
 }

@@ -2,18 +2,18 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "arris-peo",
   "displayName": "Arris by Dinsmore Steele",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Work in Arris, Dinsmore Steele's PEO quoting platform, from Claude: clients and partners finish intakes and upload documents, Dinsmore Steele staff work cases and send them to PEOs, and PEOs review and respond to quote requests. Includes the free PEO Alignment Score.",
   "author": {
     "name": "Dinsmore Steele",
     "url": "https://www.dinsmoresteele.com"
   },
-  "homepage": "https://arris.dinsmoresteele.com/connect",
+  "homepage": "https://arrisian.com/connect",
   "license": "MIT",
   "keywords": ["peo", "benefits", "payroll", "hr", "insurance", "intake", "quoting"],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://arris.dinsmoresteele.com/connect",
+  "documentationUrl": "https://arrisian.com/connect",
   "supportUrl": "https://www.dinsmoresteele.com",
-  "privacyPolicyUrl": "https://arris.dinsmoresteele.com/privacy",
-  "termsOfServiceUrl": "https://arris.dinsmoresteele.com/terms"
+  "privacyPolicyUrl": "https://arrisian.com/privacy",
+  "termsOfServiceUrl": "https://arrisian.com/terms"
 }
