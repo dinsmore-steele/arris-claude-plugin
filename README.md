@@ -10,7 +10,7 @@ You need an Arris account to use it. Dinsmore Steele invites clients, broker par
 
 | Component | What it does |
 |---|---|
-| Arris connector | Connects Claude to Arris at `https://arris.dinsmoresteele.com/api/mcp`. You sign in to Arris the first time you use it. |
+| Arris connector | Connects Claude to Arris at `https://arrisian.com/api/mcp`. You sign in to Arris the first time you use it. |
 | `finish-peo-case` skill | Walks through a case in progress: status, open questions, documents, and the hand-off to sign in Arris. |
 | `start-peo-case` skill | Opens a new case after you confirm the company name. Broker partners can then invite their client by email. |
 | `peo-alignment-score` skill | Takes you through the 12-question PEO Alignment Score and emails you the report. |
@@ -43,8 +43,8 @@ Please don't paste employee health information, census files or Social Security 
 
 ## Support and policies
 
-- Help connecting: [arris.dinsmoresteele.com/connect](https://arris.dinsmoresteele.com/connect)
-- Privacy policy: [arris.dinsmoresteele.com/privacy](https://arris.dinsmoresteele.com/privacy)
-- Terms: [arris.dinsmoresteele.com/terms](https://arris.dinsmoresteele.com/terms)
+- Help connecting: [arrisian.com/connect](https://arrisian.com/connect)
+- Privacy policy: [arrisian.com/privacy](https://arrisian.com/privacy)
+- Terms: [arrisian.com/terms](https://arrisian.com/terms)
 - Support: [arris@dinsmoresteele.com](mailto:arris@dinsmoresteele.com)
 - Dinsmore Steele: [dinsmoresteele.com](https://www.dinsmoresteele.com)
